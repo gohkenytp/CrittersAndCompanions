@@ -12,7 +12,7 @@ Critters and Companions is a vanilla-style creature mod which fills the overworl
 '''
 
 [[dependencies.crittersandcompanions]]
-modId = "geckolib3"
+modId = "geckolib"
 mandatory = true
 versionRange = "[4.2,)"
 ordering = "AFTER"
